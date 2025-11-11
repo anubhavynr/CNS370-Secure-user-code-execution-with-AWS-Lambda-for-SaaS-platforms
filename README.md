@@ -5,5 +5,6 @@ This repository lists the resources for the reInvent Chalk Talk: CNS370-Secure u
 * [Extending your SaaS platform with AWS Lambda](https://aws.amazon.com/blogs/architecture/extending-your-saas-platform-with-aws-lambda/)
 * [How Launchpad from Pega enables secure SaaS extensibility with AWS Lambda](https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/)
 * [How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale](https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/)
+* [How to implement SaaS tenant isolation with ABAC and AWS IAM](https://aws.amazon.com/blogs/security/how-to-implement-saas-tenant-isolation-with-abac-and-aws-iam/)
 
 
